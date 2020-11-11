@@ -1,0 +1,18 @@
+.course_list_wrapper{
+    border-radius: 4.4px;
+    background-color: #fff;
+    box-shadow: 0 0 4px 0 rgba(207,207,207,.5);
+    padding: 8px 15px;
+    margin-bottom: 20px;
+    transition: .2s all ease-in;
+    border:1px solid rgb(243, 243, 243);
+}
+
+.marginPadding{
+    margin-top: 19px;
+    padding-left: 64px;
+}
+
+.course_list_wrapper:hover {
+    box-shadow: 0 2px 8px 0 rgba(0,0,0,.27);
+}

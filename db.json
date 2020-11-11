@@ -1,0 +1,28 @@
+{
+  "course_list": [
+    {
+      "id": 1,
+      "course_name": "Bachelor of Computer Applications [BCA]",
+      "duration": "3 Years",
+      "time": "Full Time"
+    },
+    {
+      "id": 2,
+      "course_name": "Master of Computer Applications [M.C.A]",
+      "duration": "2 Years",
+      "time": "Full Time"
+    },
+    {
+      "id": 3,
+      "course_name": "Post Graduate Diploma in Computer Applications [PGDCA]",
+      "duration": "1 Year",
+      "time": "Part Time"
+    },
+    {
+      "id": 4,
+      "course_name": "Graphic Design Course",
+      "duration": "6 Months",
+      "time": "Part Time"
+    }
+  ]
+}
